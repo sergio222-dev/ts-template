@@ -1,0 +1,23 @@
+{
+  "name": "eshop-clean-architecture",
+  "version": "1.0.0",
+  "description": "eShop with clean architecture",
+  "main": "index.js",
+  "repository": "https://github.com/sergio222-dev/eshop-clean-architecture",
+  "author": "Sergio",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/jest": "^25.2.1",
+    "@types/node": "^13.13.5",
+    "@typescript-eslint/eslint-plugin": "^2.31.0",
+    "@typescript-eslint/parser": "^2.31.0",
+    "eslint": "^6.8.0",
+    "eslint-config-prettier": "^6.11.0",
+    "eslint-plugin-jest": "^23.9.0",
+    "rimraf": "^3.0.2",
+    "ts-jest": "^25.5.0",
+    "typescript": "^3.8.3",
+    "jest": "^26.0.1",
+    "prettier": "^2.0.5"
+  }
+}
